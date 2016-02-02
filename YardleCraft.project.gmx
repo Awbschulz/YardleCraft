@@ -26,6 +26,12 @@
       <sprite>sprites\spr_wood_birch</sprite>
       <sprite>sprites\spr_leaves_birch</sprite>
     </sprites>
+    <sprites name="Items">
+      <sprite>sprites\spr_cobblestone_item</sprite>
+      <sprite>sprites\spr_dirt_item</sprite>
+      <sprite>sprites\spr_wood_oak_item</sprite>
+      <sprite>sprites\spr_wood_birch_item</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -47,6 +53,7 @@
     </objects>
     <objects name="Blocks">
       <object>objects\obj_block</object>
+      <object>objects\obj_break</object>
       <object>objects\obj_grass</object>
       <object>objects\obj_stone</object>
       <object>objects\obj_dirt</object>
